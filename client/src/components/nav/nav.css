@@ -13,7 +13,13 @@
 
 .navbar-div {
   margin: auto;
+  /* display: none; */
+  transition: ease-in 2s;
 }
+/* .navbar:hover .navbar-div {
+  display: block;
+  transition: ease-in 2s;
+} */
 
 .navbar ul {
   list-style-type: none;

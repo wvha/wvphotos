@@ -1,5 +1,5 @@
 .App {
-
+  font-family: 'Raleway', sans-serif;
 }
 
 .App-logo {
@@ -28,4 +28,12 @@
   width: 690px;
   /* border: 1px solid red; */
   margin: auto;
+}
+
+/* TEXT STYLES */
+a {
+  color: maroon;
+}
+a:hover {
+  color: #b70202;
 }

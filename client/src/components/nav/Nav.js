@@ -20,7 +20,8 @@ export default class Nav extends Component {
           </ul>
 
           <ul style={{float: "right"}}>
-            <a href="https://github.com/wvha" target="_blank"><li>Github</li></a>
+            {/* <a href="https://github.com/wvha" target="_blank"><li>Github</li></a> */}
+            <a href="mailto:wvha17@gmail.com"><li>Email</li></a>
             <a href="https://linkedin.com/in/wvha17" target="_blank"><li>LinkedIn</li></a>
           </ul>
 

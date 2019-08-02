@@ -1,5 +1,5 @@
 .home .hero {
   display: flex;
   align-items: center;
-  height: calc(100vh - 60px);
+  height: calc(100vh - 150px);
 }
