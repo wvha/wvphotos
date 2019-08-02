@@ -1,0 +1,14 @@
+import React from "react"
+import "./photos.css"
+
+export default class Photos extends React.Component {
+  render() {
+    return (
+      <div className="photos md">
+        PHOTOS
+        <img alt="Catalina Island" src="https://lh3.googleusercontent.com/jXsI7CZRivp4auQ61fUu34UUNVVJEDcvbM5PL7WKm8l9K1r4AnxiSE8prR1hLd16CSJ89D6zaOSYK9fFWVGwIuJHelqOJ-JulaU7QFeajJPE7WRYJnaGy3pCq2fre64cnwbAnmUIjyTUKWL5-6JoZtY0lsCPBi38jzaMskfbI1iVUk0sA2VIWOmasC9P_uMRcHj6pn3i9bNA7tFPg2dFKhAXOZL-zrdJoA_wUzVxILGeBsaY_vywCFhdCR-cGwXs4iDkwKtOJCAgA_fbFya7vesjJdnziIHXiTFMZ9mesrq8h5NpWnTDjprmG91_CZnYVZPXZ86y6I0etBoWee9JP1Xp2JPr8mec5H6_A4Bl1nq8S8-ojnIzcqszaPsAspsjRpIvvuqmJT8uONyb5ra5cdaHhXGtfao6B9H-0Xou0i3S4HB5Hm1PPaJ166Yi35WhHjk-Pdp4xhTQxY7nP8tUjit4aI-6zqAOh2vgdDG6fUXPhZIVWlyxFq3SwzwE0_S2xrJTWJBTEq-7Ir9nVluvIJoUodRA1Rfz_bKC_GIv9MJbn2IlhQEgrnkCnDIfRafRjmFtxtjXrgPyUlxOeaWuix8CRMoVjrx7cmTdbWpv9M8JaCjXl-AdJknVjKviDg4salz5hgqKHvgMM0PFGlHAiG0M-e6SZhzk=w2610-h1740-no" />
+        <img alt="rheakarlo1" src="https://lh3.googleusercontent.com/63oCnuDtOae-Ds2gF8PGS_KitLhbzK5UGS8JCGekg4uPo_bruwUnnxhfDjE0lQKd0T41mjQqG4Y9nXCP8B1Q8fFmGZyUtVAHKVf_irPBK1ZOZAr0VnhTaGfR_JH3LiPGqMhvGtv6tkUtPjOhXqi6wZwmOCU8gAHAEM7bKMfKuPIYrEfO3Ox2zOk_64K9nUAwvDQFkOsoOncjPi5W-nqGOuyWiWgRf0KbhVHDuVhZze6CzI-M9paqXziCNl_kpOXgELDb5RzcJR5syKzwaTpHQ6gN00sfOoC6pMnqI2OW-Y9yRefsb3WYeiUsb156C_aMpub-PDQcGbiyikX8feo9UGn52GIojbY_w-untFwpAlGcOvHLCeKXEXxOGIBXvqAOqHfM6FZZ-s3dF0rEZvJODLep777EJmi7F8uLO70NVLIh-fW5ie-5_PyII28veYONhotmObiFvuD8qIHNhUSiLiOkEdrlrSQeBiLuGcCMlM29rraTO7O8XcMeCPlDhj5VKeIIPrPWjrlgsj6JxkQDzUEtESImNbp2uveOV4GJtQ-zH0AiLzCw6fTx0uzWI8uvO2sIIO1Fn1nGTx0wp4LqN6S3JcbVbjkKiB7OgOYL4hXrL5IX79OUAXBbX9FsevNLPgaaESDUEDaIknItgVJC7hQaHbVM5Vp1=w2610-h1740-no" />
+      </div>
+    )
+  }
+}

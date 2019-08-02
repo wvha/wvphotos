@@ -1,0 +1,38 @@
+.navbar {
+  height: 60px;
+  background-color: white;
+  /* border-bottom: 2px solid lightgray; */
+  /* box-shadow: 1px 1px lightgray */
+}
+
+#bar {
+  height: 10px;
+  width: 100%;
+  background-color: lightgray;
+}
+
+.navbar-div {
+  margin: auto;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+.navbar li {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  color: black;
+  /* border: 1px solid green; */
+}
+
+.navbar li:hover {
+  color: lightgray;
+}
+
