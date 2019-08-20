@@ -1,5 +1,9 @@
-.home .hero {
-  display: flex;
-  align-items: center;
-  height: calc(100vh - 150px);
+
+.contact {
+  position: absolute;
+  bottom: 0;
+  right: 100px;
+  border: 1px solid lightgray;
+  padding: 10px;
+  border-radius: 5px;
 }
